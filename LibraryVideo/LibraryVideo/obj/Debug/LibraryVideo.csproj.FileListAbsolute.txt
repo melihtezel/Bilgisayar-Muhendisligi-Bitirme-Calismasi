@@ -1,0 +1,325 @@
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.AssemblyReference.cache
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.AddBooks.resources
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Form1.resources
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Properties.Resources.resources
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.ViewBook.resources
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.GenerateResource.cache
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.CoreCompileInputs.cache
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.exe.config
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.exe
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.pdb
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.exe
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.pdb
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Destek.resources
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.exe.config
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.exe
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.pdb
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.AssemblyReference.cache
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.AddBooks.resources
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Destek.resources
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Form1.resources
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Properties.Resources.resources
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.ViewBook.resources
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.GenerateResource.cache
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.CoreCompileInputs.cache
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.exe
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.pdb
+C:\Users\Murat Melih Tezel\Desktop\LibraryVideo (2)\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Giris.resources
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\mongocrypt.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.exe.config
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.exe
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.pdb
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\DnsClient.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Bson.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\SharpCompress.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Snappier.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Buffers.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Memory.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\ZstdSharp.dll
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\DnsClient.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Bson.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Snappier.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Buffers.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Memory.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.AddBooks.resources
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Destek.resources
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Form1.resources
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Giris.resources
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Properties.Resources.resources
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.ViewBook.resources
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.GenerateResource.cache
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.CopyComplete
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.exe
+C:\Users\Salih\Desktop\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.pdb
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\mongocrypt.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.exe.config
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.exe
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.pdb
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\DnsClient.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Bson.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\SharpCompress.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Snappier.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Buffers.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Memory.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\ZstdSharp.dll
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\DnsClient.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Bson.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Snappier.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Buffers.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Memory.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.AddBooks.resources
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Destek.resources
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Form1.resources
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Giris.resources
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Properties.Resources.resources
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.ViewBook.resources
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.GenerateResource.cache
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.CopyComplete
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.exe
+C:\Users\Salih\Desktop\Projelerim\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.pdb
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\mongocrypt.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.exe.config
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.exe
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.pdb
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\DnsClient.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Bson.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\SharpCompress.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Snappier.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Buffers.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Memory.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\ZstdSharp.dll
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\DnsClient.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Bson.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\Snappier.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Buffers.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Memory.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.AssemblyReference.cache
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.AddBooks.resources
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Destek.resources
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Form1.resources
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Giris.resources
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Properties.Resources.resources
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.ViewBook.resources
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.GenerateResource.cache
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.CoreCompileInputs.cache
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.CopyComplete
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.exe
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.pdb
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.AdminKayıt.resources
+C:\Users\Murat Melih Tezel\Downloads\LibraryVideo Son (1)\LibraryVideo Son\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Talep.resources
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\mongocrypt.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.exe.config
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.exe
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.pdb
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\DnsClient.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Bson.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\SharpCompress.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\Snappier.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Buffers.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Memory.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\ZstdSharp.dll
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.pdb
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\DnsClient.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Bson.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\Snappier.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Buffers.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Memory.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Security.AccessControl.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.AssemblyReference.cache
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.AdminKayıt.resources
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Destek.resources
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Form1.resources
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Giris.resources
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Properties.Resources.resources
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Talep.resources
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.GenerateResource.cache
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.CoreCompileInputs.cache
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.CopyComplete
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.exe
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.pdb
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.KaynakEkle.resources
+C:\Users\emirk\OneDrive\Masaüstü\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.KaynakGoruntule.resources
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\mongocrypt.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.exe.config
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.exe
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\LibraryVideo.pdb
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\DnsClient.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Bson.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\SharpCompress.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\Snappier.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Buffers.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Memory.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\ZstdSharp.dll
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.Core.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\DnsClient.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Bson.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\Snappier.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Buffers.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Memory.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.AssemblyReference.cache
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.KaynakEkle.resources
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.AdminKayıt.resources
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Destek.resources
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Form1.resources
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Giris.resources
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Properties.Resources.resources
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.Talep.resources
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.KaynakGoruntule.resources
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.GenerateResource.cache
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.CoreCompileInputs.cache
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.csproj.CopyComplete
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.exe
+C:\Users\Murat Melih Tezel\Downloads\sunum\sunum\LibraryVideo\LibraryVideo\obj\Debug\LibraryVideo.pdb
